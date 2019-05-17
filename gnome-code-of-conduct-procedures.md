@@ -1,4 +1,4 @@
-***Unapproved draft***
+# Ratifying Code of Conduct Changes
 
 When discussing a change to the Code of Conduct or enforcement policies, the GNOME online communities Code of Conduct committee will follow this decision-making process:
 
