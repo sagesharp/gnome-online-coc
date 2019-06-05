@@ -58,3 +58,12 @@ This Code of Conduct was forked from the example policy from [ORIGINAL CODE OF C
 Additional language was added by [ATTRIBUTION OF PEOPLE EDITING THIS DOCUMENT]. Language was incorporated from the following Codes of Conduct:
 
 [LIST OF CODES OF CONDUCT AND THEIR LICENSE TERMS]
+## License
+
+This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), which is under a Creative Commons Zero license.
+
+Additional language was added by [Otter Tech](https://otter.technology/) from:
+
+ * [GNOME Foundation Code of Conduct](https://wiki.gnome.org/action/recall/Foundation/CodeOfConduct?action=recall&rev=48)
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
