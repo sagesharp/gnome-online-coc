@@ -10,8 +10,10 @@
 
 Examples of behavior that contributes to creating a positive environment include:
 
+ * **Be friendly.** Use welcoming and inclusive language.
+ * **Be empathetic.** Be respectful of differing viewpoints and experiences.
  * **Be respectful.** When we disagree, we do so in a polite and constructive manner.
- * **Be considerate.** Remember that decisions are often a difficult choice between competing priorities.
+ * **Be considerate.** Remember that decisions are often a difficult choice between competing priorities. Focus on what is best for the community.
  * **Be patient and generous.** If someone asks for help it is because they need it. When documentation is available that answers the question, politely point them to it. If the question is off-topic, suggest a more appropriate online space to seek help.
  * **Try to be concise.** Read the discussion before commenting in order to not repeat a point that has been made.
 
@@ -68,5 +70,6 @@ This Code of Conduct was forked from the example policy from the [Geek Feminism 
 Additional language was added by [Otter Tech](https://otter.technology/) from:
 
  * [GNOME Foundation Code of Conduct](https://wiki.gnome.org/action/recall/Foundation/CodeOfConduct?action=recall&rev=48)
+ * [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct) (licensed [CC BY 4.0](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md))
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
