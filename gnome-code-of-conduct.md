@@ -39,9 +39,9 @@ This Code of Conduct applies to all online GNOME community spaces:
 
 All participants in GNOME online community spaces are subject to the Code of Conduct. This includes GNOME Foundation board members, corporate sponsors, and paid employees. This also includes volunteers, maintainers, leaders, contributors, contribution reviewers, issue reporters, and anyone participating in discussion in GNOME online spaces.
 
-[CONTACT INFORMATION]
+## Contact Information
 
-[COMMUNITY] organizers will be happy to help community event participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the event. We value your attendance.
+If you believe that someone is violating the Code of Conduct, or have any other concerns, please [contact the Code of Conduct committee](LINK to procedures guide) immediately.
 
 ## Procedure for Handling Incidents
 
