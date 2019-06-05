@@ -10,7 +10,10 @@
 
 Examples of behavior that contributes to creating a positive environment include:
 
-[COMMUNITY NORMS] 
+ * **Be respectful.** When we disagree, we do so in a polite and constructive manner.
+ * **Be considerate.** Remember that decisions are often a difficult choice between competing priorities.
+ * **Be patient and generous.** If someone asks for help it is because they need it. When documentation is available that answers the question, politely point them to it. If the question is off-topic, suggest a more appropriate online space to seek help.
+ * **Try to be concise.** Read the discussion before commenting in order to not repeat a point that has been made.
 
 Examples of unacceptable behavior by participants include:
 
