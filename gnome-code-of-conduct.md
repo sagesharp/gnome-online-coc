@@ -6,7 +6,28 @@
 
 ## Our Standards
 
-[COMMUNITY] is dedicated to providing a positive experience for everyone, regardless of [PROTECTED CLASSES]
+The GNOME online community is dedicated to providing a positive experience for everyone, regardless of:
+
+ * age
+ * body size
+ * caste
+ * citizenship
+ * disability
+ * education
+ * ethnicity
+ * gender expression
+ * gender identity
+ * immigration status
+ * level of experience
+ * nationality
+ * personal appearance
+ * race
+ * religion
+ * sex characteristics
+ * sexual orientation
+ * sexual identity
+ * socio-economic status
+ * tribe
 
 Examples of behavior that contributes to creating a positive environment include:
 
@@ -67,9 +88,17 @@ Additional language was added by [ATTRIBUTION OF PEOPLE EDITING THIS DOCUMENT]. 
 
 This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), which is under a Creative Commons Zero license.
 
-Additional language was added by [Otter Tech](https://otter.technology/) from:
+Additional language was incorporated and modified from the following Codes of Conduct:
 
- * [GNOME Foundation Code of Conduct](https://wiki.gnome.org/action/recall/Foundation/CodeOfConduct?action=recall&rev=48)
+ * [Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template/) is licensed [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) by [Otter Tech](https://otter.technology/code-of-conduct-training)
  * [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct) (licensed [CC BY 4.0](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md))
+ * [Data Carpentry Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html) is licensed [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/) - abbreviated CD in list
+ * [Django Project Code of Conduct](https://www.djangoproject.com/conduct/) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) - abbreviated DP in list
+ * [Fedora Code of Conduct](http://fedoraproject.org/code-of-conduct)
+ * [Geek Feminism Anti-harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/)
+ * [GNOME Foundation Code of Conduct](https://wiki.gnome.org/action/recall/Foundation/CodeOfConduct?action=recall&rev=48)
+ * [LGBTQ in Technology Slack Code of Conduct](https://lgbtq.technology/coc.html) licensed [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) - abbreviated LG in list
+ * [Python Mentors Code of Conduct](http://pythonmentors.com/)
+ * [Speak Up! Community Code of Conduct](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html), licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
