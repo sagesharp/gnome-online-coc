@@ -33,6 +33,8 @@ The GNOME online community is dedicated to providing a positive experience for e
  * tribe
  * veteran status
 
+### Community Guidelines
+
 Examples of behavior that contributes to creating a positive environment include:
 
  * **Be friendly.** Use welcoming and inclusive language.
