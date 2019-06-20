@@ -58,10 +58,9 @@ We want all participants in the GNOME community have the best possible experienc
  * **Unwelcome physical contact.** This includes touching a person without permission, including sensitive areas such as their hair, pregnant stomach, mobility device (wheelchair, scooter, etc) or tattoos. This also includes physically blocking or intimidating another person. Physical contact or simulated physical contact (such as emojis like "kiss") without affirmative consent is not acceptable. This includes sharing or distribution of sexualized images or text.
  * **Violence or threats of violence.** Violence and threats of violence are not acceptable - online or offline. This includes incitement of violence toward any individual, including encouraging a person to commit self-harm. This also includes posting or threatening to post other people's personally identifying information ("doxxing") online.
  * **Influencing or encouraging inappropriate behavior.** If you influence or encourage another person to violate the Code of Conduct, you may face the same consequences as if you had violated the Code of Conduct.
+ * **Possession of an offensive weapon at a GNOME event.** This includes anything deemed to be a weapon by the event organizers.
 
 [REVERSISMS]
-
-[WEAPONS POLICY]
 
 If a participant engages in behavior that violates this code of conduct, the [COMMUNITY] organizers may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets.
 
