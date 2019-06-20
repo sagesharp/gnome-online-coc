@@ -44,11 +44,20 @@ Examples of behavior that contributes to creating a positive environment include
  * **Be patient and generous.** If someone asks for help it is because they need it. When documentation is available that answers the question, politely point them to it. If the question is off-topic, suggest a more appropriate online space to seek help.
  * **Try to be concise.** Read the discussion before commenting in order to not repeat a point that has been made.
 
-Examples of unacceptable behavior by participants include:
-
-[INAPPROPRIATE BEHAVIOR]
+### Inappropriate Behavior
 
 Community members asked to stop any inappropriate behavior are expected to comply immediately.
+
+We want all participants in the GNOME community have the best possible experience they can. In order to be clear what that means, we've provided a list of examples of behaviors that are inappropriate for GNOME community spaces:
+
+ * **Deliberate intimidation, stalking, or following**
+ * **Sustained disruption of online discussion, talks, or other events.** Sustained disruption of events, online discussions, or meetings, including talks and presentations, will not be tolerated. This includes 'Talking over' or 'heckling' event speakers or influencing crowd actions that cause hostility in event sessions. Sustained disruption also includes drinking alcohol to excess or using recreational drugs to excess, or pushing others to do so.
+ * **Harassment of people who don't drink alcohol.** We do not tolerate derogatory comments about those who abstain from alcohol or other substances. We do not tolerate pushing people to drink, talking about their abstinence or preferences to others, or pressuring them to drink - physically or through jeering.
+ * **Sexist, racist, homophobic, transphobic, ableist language or otherwise exclusionary language.** This includes deliberately referring to someone by a gender that they do not identify with, and/or questioning the legitimacy of an individual's gender identity. If you're unsure if a word is derogatory, don't use it. This also includes repeated subtle and/or indirect discrimination.
+ * **Unwelcome sexual attention or behavior that contributes to a sexualized environment.** This includes sexualized comments, jokes or imagery in interactions, communications or presentation materials, as well as inappropriate touching, groping, or sexual advances. Sponsors should not use sexualized images, activities, or other material. Meetup organizing staff and other volunteer organizers should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+ * **Unwelcome physical contact.** This includes touching a person without permission, including sensitive areas such as their hair, pregnant stomach, mobility device (wheelchair, scooter, etc) or tattoos. This also includes physically blocking or intimidating another person. Physical contact or simulated physical contact (such as emojis like "kiss") without affirmative consent is not acceptable. This includes sharing or distribution of sexualized images or text.
+ * **Violence or threats of violence.** Violence and threats of violence are not acceptable - online or offline. This includes incitement of violence toward any individual, including encouraging a person to commit self-harm. This also includes posting or threatening to post other people's personally identifying information ("doxxing") online.
+ * **Influencing or encouraging inappropriate behavior.** If you influence or encourage another person to violate the Code of Conduct, you may face the same consequences as if you had violated the Code of Conduct.
 
 [REVERSISMS]
 
@@ -96,6 +105,7 @@ This Code of Conduct was forked from the example policy from the [Geek Feminism 
 
 Additional language was incorporated and modified from the following Codes of Conduct:
 
+ * [Citizen Code of Conduct](http://citizencodeofconduct.org/) is licensed [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
  * [Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template/) is licensed [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) by [Otter Tech](https://otter.technology/code-of-conduct-training)
  * [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct) (licensed [CC BY 4.0](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md))
  * [Data Carpentry Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html) is licensed [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/)
@@ -104,7 +114,8 @@ Additional language was incorporated and modified from the following Codes of Co
  * [Geek Feminism Anti-harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/)
  * [GNOME Foundation Code of Conduct](https://wiki.gnome.org/action/recall/Foundation/CodeOfConduct?action=recall&rev=48)
  * [LGBTQ in Technology Slack Code of Conduct](https://lgbtq.technology/coc.html) licensed [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) - abbreviated LG in list
+ * [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) is licensed [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
  * [Python Mentors Code of Conduct](http://pythonmentors.com/)
  * [Speak Up! Community Code of Conduct](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html), licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
 
-[![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
+[![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
