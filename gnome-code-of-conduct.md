@@ -15,12 +15,15 @@ The GNOME online community is dedicated to providing a positive experience for e
  * disability
  * education
  * ethnicity
+ * familial status
  * gender expression
  * gender identity
+ * genetic information
  * immigration status
  * level of experience
  * nationality
  * personal appearance
+ * pregnancy
  * race
  * religion
  * sex characteristics
@@ -28,6 +31,7 @@ The GNOME online community is dedicated to providing a positive experience for e
  * sexual identity
  * socio-economic status
  * tribe
+ * veteran status
 
 Examples of behavior that contributes to creating a positive environment include:
 
