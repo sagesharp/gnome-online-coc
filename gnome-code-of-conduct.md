@@ -92,15 +92,6 @@ If you believe that someone is violating the Code of Conduct, or have any other 
 
 ## License
 
-This Code of Conduct is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
-
-This Code of Conduct was forked from the example policy from [ORIGINAL CODE OF CONDUCT AND ITS LICENSE]
-
-Additional language was added by [ATTRIBUTION OF PEOPLE EDITING THIS DOCUMENT]. Language was incorporated from the following Codes of Conduct:
-
-[LIST OF CODES OF CONDUCT AND THEIR LICENSE TERMS]
-## License
-
 This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), which is under a Creative Commons Zero license.
 
 Additional language was incorporated and modified from the following Codes of Conduct:
