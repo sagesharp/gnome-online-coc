@@ -12,7 +12,7 @@ The audience for this document is the Code of Conduct committee for [COMMUNITY].
 
 # On-boarding new committee members
 
-[How are new committee members added? What is the term length of the committee members? What is the procedure to vote in new members? What resources do new members need to have access to?]
+[onboarding-committee-members.md]
 
 # Reporting methods
 
@@ -59,3 +59,11 @@ The audience for this document is the Code of Conduct committee for [COMMUNITY].
 # Off-boarding committee members
 
 [off-boarding-committee-members.md]
+
+## License and Attribution
+
+This Code of Conduct committee procedures guide is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
+
+Language was incorporated and modified from the following Code of Conduct procedure guides:
+
+ * [Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template/) is licensed [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) by [Otter Tech](https://otter.technology/code-of-conduct-training)
