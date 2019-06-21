@@ -1,22 +1,68 @@
-# [COMMUNITY] Code of Conduct committee procedures
+***This document is not approved. The only section that has been approved is the "Ratifying Code of Conduct Changes" section***
 
-The audience for this document is the Code of Conduct committee for [COMMUNITY]. The goal of this document is to ensure that the committee consistently handles all reported Code of Conduct incidents.
+# GNOME online Code of Conduct committee procedures
+
+The audience for this document is the GNOME online Code of Conduct committee. The goal of this document is to ensure that the committee consistently handles all reported Code of Conduct incidents.
 
 [TABLE OF CONTENTS]
 
 ## Committee members
 
-[Names of all committee members]
+The GNOME online Code of Conduct committee has the following members:
 
-[Names of any additional people who have access to the Code of Conduct reports, or who may be pulled in if too many committee members have a conflict of interest.]
+ * Christel Dahlskjaer
+ * Federico Mena Quintero
+ * Felipe Borges
+ * Rosanna Yuen
+
+Please note that GNOME sysadmins have administrative access to some private committee resources. If a report is received that involves a GNOME sysadmin, all committee report discussion and documentation should occur off GNOME servers. GNOME sysadmins making a report and people reporting GNOME sysadmins are encouraged to contact committee members individually via private email. If a GNOME sysadmin accesses private committee resources, the committee will contact the GNOME Foundation board.
+
+[CONFLICT PROCEDURES - Names of any additional people who may be pulled in if too many committee members have a conflict of interest.]
+
+### Committee roles
+
+The committee has one chairperson. The committee chair's duties involve:
+
+ * Calling committee meetings
+ * Contacting committee members for term renewals
+ * Tracking the status of active reports
+
+The currently acting committee chair is [PERSON].
+
+The chair may assign a committee member, or a committee member can nominate themselves, to do the following duties:
+
+ * Communications lead for a particular reporter, witness, or reported person
+ * Communications bridge to GNOME event organizers or online moderators
+ * Records keeper to ensure the committee notes related to a report are up-to-date
 
 ## On-boarding new committee members
 
-[How are new committee members added? What is the term length of the committee members? What is the procedure to vote in new members? What resources do new members need to have access to?]
+Should there be two or fewer committee members, additional committee members will be added.
+
+[VOTING PROCESS or APPOINTMENT?]
+ * New committee members will be added through a nomination and voting process. A call for nominations will be made to a community forum or mailing list [LIST INFO]. Nominated candidates will be reviewed by the current Code of Conduct committee. Committee members vote on each candidate. Candidates will be confirmed by a a three-fourths majority of all the current Code of Conduct committee members. If a candidate was nominated by another person, the committee will confirm they are willing to be a committee member.
+ * New committee members will be appointed by the community governing body or community leader. The appointment can be rejected by a three-fourths majority of all the current Code of Conduct committee members.
+
+Confirmed committee members will be given access to the following committee resources:
+
+ * Committee private mailing list
+ * Committee private wiki pages
+ * [FIXME the following is an example list. Do not link to the location of the resources, but list their general nature.]
+ * Private forums/chat servers, or private slack/Zulip channels for the committee members
+ * All shared documents (such as Google Docs or private wiki pages) for reports
+ * The shared spreadsheet for report statuses
+ * Event registration data
+ * Admin/moderator rights on community chat/forums
+
+When a new committee member is on-boarded, they will be asked whether they have a conflict of interest with any open or closed reports. Go through the list of reported people verbally and see whether they have a conflict of interest. If not, grant them access to that report's documentation.
 
 ## Off-boarding committee members
 
-[off-boarding-committee-members.md]
+Committee members shall serve for a term of one year. After one year, the committee chair will check in with the committee member. If the member confirms they wish to continue serving, their term will be renewed. If the member fails to respond to the chair request communications, they will be removed from the committee and off-boarded.
+
+If a committee member displays behavior that makes them unfit to continue serving on the Code of Conduct committee, the committee should discuss their removal. One person should email all committee members privately to discuss the person's conduct. If necessary, committee members will vote whether to remove the member. The vote must pass with a simple majority of all Code of Conduct committee members. If the vote passes, the committee chair will email the person to let them know they have been removed from the committee. Their access to committee resources should be revoked before the email is sent.
+
+When a committee member is resigning or being removed, they should have their access removed from the committee resources listed in the on-boarding section.
 
 ## Ratifying Code of Conduct Changes
 
@@ -32,9 +78,21 @@ When discussing a change to the Code of Conduct or enforcement policies, the GNO
 
 [Procedure for deciding volunteer shifts for taking phoned in reports.]
 
-## Conflicts of interest
+## Conflicts of Interest
 
-[conflicts-of-interest.md]
+When a new incident report is received, it's important to only involve the Code of Conduct committee members who don't have a conflict of interest. Committee members who have a conflict of interest should not have access to discussion of the report, documentation of the report, or information about who made the report.
+
+Examples of conflicts of interest include:
+
+ * The reporter or reported person is your manager
+ * You have a romantic or platonic relationship with either the reporter or the reported person. It’s fine to participate if they are an acquaintance.
+ * The reporter or reported person is your metamour. (This is a term used in the poly community; the short definition is [here](https://www.urbandictionary.com/define.php?term=Metamour), and a longer description is [here](https://solopoly.net/2012/09/29/whats-a-metamour-on-my-terms/)).
+ * The reporter or reported person is your family member
+ * The reporter or reported person is your direct client
+ * The reporter or reported person is someone you work closely with. This could be someone on your team or someone who works on the same project as you.
+ * The reporter or reported person is a maintainer who regularly reviews your contributions
+
+Committee members do not need to state why they have a conflict of interest, only that one exists. Other committee members should not ask why the person has a conflict of interest.
 
 ## Talking to reporters
 
