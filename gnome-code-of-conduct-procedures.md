@@ -47,6 +47,7 @@ Confirmed committee members will be given access to the following committee reso
 
  * Committee private mailing list
  * Committee private wiki pages
+ * Committee private GitLab
  * [FIXME the following is an example list. Do not link to the location of the resources, but list their general nature.]
  * Private forums/chat servers, or private slack/Zulip channels for the committee members
  * All shared documents (such as Google Docs or private wiki pages) for reports
