@@ -94,7 +94,20 @@ Committee members do not need to state why they have a conflict of interest, onl
 
 ## Talking to reporters
 
-[talking-to-reporters.md]
+### Talking to hesitant reporters
+
+Sometimes a reporter may seem hesitant to meet with you or reluctant to provide details in a report. They may fear retribution. They may be worried you won’t act on the report. They may be worried that you won’t believe them. There are several different things you can do. Try them in order:
+
+ * Reassure them that their report will remain confidential
+ * Offer that they report to another member of the team, such as someone who shares their gender identity, race, or ethnicity
+ * Offer to take an anonymous report. You will not record the reporter's name or contact information. Other Code of Conduct committee members will not be told the reporter's name. Unfortunately, that means they will not receive a follow-up about the report.
+ * The last option if the reporter is still hesitant is to allow the reporter to "escrow" a report. They can provide a description of the incident and the Code of Conduct committee will not act on it unless the behavior is repeated. The Code of Conduct committee should review any past reports for patterns of behavior, or a pattern of behavior that pushes at the boundaries of what is inappropriate.
+
+### Dealing with immediate danger
+
+If there is immediate danger at an event (e.g. occurrence or threat of physical violence), ask the event organizers to call venue security, a crisis line, or other non-emergency numbers. Only call law enforcement if the person at risk asks you to.
+
+If there is an online incident that could threaten someone's physical safety or mental health, only involve law enforcement if the person at risk asks you to. This includes situations such as stalking or sharing personal information publicly in order to encourage harassment (doxxing).
 
 ## Documenting a report
 
