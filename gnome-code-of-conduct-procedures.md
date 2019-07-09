@@ -146,7 +146,30 @@ If there is an online incident that could threaten someone's physical safety or 
 
 ## Potential consequences
 
-[consequences.md]
+What follows are examples of possible responses to an incident report. This list is not inclusive, and the GNOME online Code of Conduct committee reserves the right to take any action it deems necessary. Possible responses to an incident include:
+
+* Nothing, if the behavior was determined to not be a Code of Conduct violation
+* A verbal or emailed warning
+* Requiring that the reported person not send private messages to a community member
+* Requiring that the reported person not join specific chat channels
+* Requiring that the reported person avoid any interaction with, and physical proximity to, another person for the remainder of the event
+* Requiring the reported person not attend evening events
+* Refusal of alcoholic beverage purchases at events
+* Ending a talk that violates the Code of Conduct early
+* Not publishing the video or slides of a talk that violated the Code of Conduct
+* Not allowing a speaker who violated the Code of Conduct to give (further) talks at the event now or in the future
+* Immediately ending any event volunteer responsibilities and privileges a person holds
+* Requiring that a person not volunteer for future events (either indefinitely or for a certain time period)
+* Requiring that a person refund any travel grants and similar they received
+* Revoking sponsor agreements, refunding sponsorship, and removing sponsor promotion (such as logos or banners)
+* Requiring that sponsor attendees immediately leave the event and not return
+* Requiring that a person immediately leave the event and not return
+* Banning a person from future events (either indefinitely or for a certain time period)
+* Removing the reported person from community online chat servers or mailing lists (either indefinitely or for a certain time period)
+* Removing the reported person from admin or moderator rights to community infrastructure
+* Removing a person from leadership of relevant organizations
+* Removing a person from membership of relevant organizations
+* Publishing an account of the incident and (optionally) calling for the resignation of a person from their responsibilities
 
 ## Talking to a reported person
 
@@ -186,3 +209,4 @@ The GNOME Online Code of Conduct committee procedures was forked from the Code o
 Additional language and graphics were incorporated and modified from the following resources:
 
 * Impact vs risk assessment is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/) by Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/) and [Otter Tech](https://otter.technology/code-of-conduct-training)
+* The [PyCon Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
