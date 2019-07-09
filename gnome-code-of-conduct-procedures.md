@@ -180,5 +180,8 @@ Examples of transparency reports include:
 
 ## Attribution
 
-* Code of Conduct template was created by [Otter Tech](https://otter.technology/code-of-conduct-training) and is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
+The GNOME Online Code of Conduct committee procedures was forked from the Code of Conduct template, which was created by [Otter Tech](https://otter.technology/code-of-conduct-training) and is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
+
+Additional language and graphics were incorporated and modified from the following resources:
+
 * Impact vs risk assessment is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/) by Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/) and [Otter Tech](https://otter.technology/code-of-conduct-training)

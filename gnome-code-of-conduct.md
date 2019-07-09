@@ -91,7 +91,7 @@ If you believe that someone is violating the Code of Conduct, or have any other 
 
 ## License
 
-This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), which is under a Creative Commons Zero license.
+The GNOME Online Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), which is under a Creative Commons Zero license.
 
 Additional language was incorporated and modified from the following Codes of Conduct:
 
