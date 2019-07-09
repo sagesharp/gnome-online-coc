@@ -115,7 +115,33 @@ If there is an online incident that could threaten someone's physical safety or 
 
 ## Discussing a report
 
-[discussing-a-report.md]
+* **Evaluate conflicts of interest.** Anyone who has a conflict of interest (as defined by the conflict of interest policy) will remove themselves from the discussion. This may mean the discussion needs to happen with a subset of committee members on an email thread, or with a subset of committee members in a private chat room.
+* **Call a meeting of committee members.** Not all committee members may be able to attend the meeting, either because of a conflict of interest, or because of personal reasons. There must be at least half of the committee members who do not have a conflict of interest present in the meeting to make a decision.
+* **During the meeting, discuss the reported incident** Use the evaluation techniques described below.
+* **Propose behavioral modification plan.** What behavioral modification plan (if any) should be given to the reported person?
+* **Propose consequences for reported person.** What (if any) actions will the committee need to take in order to ensure the behavior does not happen again? What actions will need to be taken if the reported person does not agree to the behavioral modification plan?
+* **Vote on behavioral modification plan and consequences for the reported person.** Decisions will be made by a simple majority of the committee members in the meeting.
+
+### Evaluating a report
+
+#### Jurisdiction
+
+ * *Is this a Code of Conduct violation?* Is this behavior on our list of inappropriate behavior? Is it borderline inappropriate behavior? Does it violate our community norms?
+ * *Did this occur in a space that is within our Code of Conduct's scope?* If the incident occurred outside the community, but a community member's mental health or physical safety may be negatively impacted if no action is taken, the incident may be in scope. Private conversations in community spaces are also in scope.
+
+#### Impact
+
+ * *Did this incident occur in a private conversation or in a public space?* Incidents that all community members can see will have more negative impact.
+ * *Does this behavior negatively impact a marginalized group in our community?* Is the reporter a person from a marginalized group in our community? How is the reporter being negatively impacted by the reported person's behavior? Would members of the marginalized group decide to disengage with the community if no action was taken?
+ * *Does this incident involve a community leader?* Incidents that aren't handled well can have more negative impact on overall community health.
+
+#### Risk
+
+ * *Does this incident include sexual harrasment?*
+ * *Does this pose a safety risk?* Does the behavior put a person's physical safety at risk? Will this incident severely negatively impact someone's mental health?
+ * *Is there a risk of this behavior being repeated?* Does the reported person understand why their behavior was inappropriate? Is there an established pattern of behavior from past reports?
+
+![Impact vs risk matrix is CC-BY-SA 3.0 Safety First PDX and Otter Tech](https://raw.githubusercontent.com/sagesharp/code-of-conduct-template/master/procedures/impact-vs-risk-matrix.png)
 
 ## Potential consequences
 
@@ -155,3 +181,4 @@ Examples of transparency reports include:
 ## Attribution
 
 * Code of Conduct template was created by [Otter Tech](https://otter.technology/code-of-conduct-training) and is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
+* Impact vs risk assessment is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/) by Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/) and [Otter Tech](https://otter.technology/code-of-conduct-training)
