@@ -111,7 +111,7 @@ If there is an online incident that could threaten someone's physical safety or 
 
 ## Documenting a report
 
-[Steps to take to document a report, including creating a shared document or filling out a template form.]
+[Steps for documenting a report](https://wiki.gnome.org/CodeOfConductCommittee/Private/IncidentResponseGuidelines) are listed on a private wiki page accessible to committee members.
 
 ## Discussing a report
 
