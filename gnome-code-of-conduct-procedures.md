@@ -217,6 +217,10 @@ If handling the report takes longer than 1 week, then the committee will need to
 
 The committee should send an email acknowledging emailed reports or reports via web form within 24 hours. Reporters should receive an email back with the committee’s decisions and actions taken within 1 week. If deliberations are taking longer than a week, you should email the reporter letting them know that the report will take more time to handle.
 
+## Additional Procedures
+
+The committee's [private procedures page](https://wiki.gnome.org/CodeOfConductCommittee/Private/IncidentResponseGuidelines) lists more committee procedures.
+
 ## Transparency reports
 
 Once every three months, the GNOME online Code of Conduct committee will provide a public transparency report about the resolved and ongoing reports it has handled. The committee may decide to delay a transparency report if the timing of releasing a transparency report would jeopardize the privacy of the reporter, the reported person, or third-party witnesses.
