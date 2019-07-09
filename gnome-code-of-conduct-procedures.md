@@ -74,9 +74,7 @@ When discussing a change to the Code of Conduct or enforcement policies, the GNO
 
 ## Reporting methods
 
-[List of phone numbers or URLs for tools reporters can use to make a Code of Conduct incident report.]
-
-[Procedure for deciding volunteer shifts for taking phoned in reports.]
+Reports will come in from the email <code-of-conduct-committee@gnome.org>. This is a private mailing list with archives. It is only accessible to committee members and GNOME sysadmins.
 
 ## Conflicts of Interest
 
