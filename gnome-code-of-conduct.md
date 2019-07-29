@@ -2,7 +2,7 @@
 
 # Code of Conduct
 
-Thank you for being a part of the GNOME project. We value your participation and want everyone to have an enjoyable and fulfilling experience. Accordingly, all participants are expected to follow this Code of Conduct, and to show respect, understanding, and consideration to one another.
+Thank you for being a part of the GNOME project. We value your participation and want everyone to have an enjoyable and fulfilling experience. Accordingly, all participants are expected to follow this Code of Conduct, and to show respect, understanding, and consideration to one another. Thank you for helping make this a welcoming, friendly community for everyone.
 
 ## Our Standards
 
@@ -69,9 +69,7 @@ The GNOME community prioritizes marginalized people's safety over privileged peo
 
 The examples listed above are not against the Code of Conduct. If you have questions about the above statements, please [read this document](https://github.com/sagesharp/code-of-conduct-template/blob/master/code-of-conduct/example-reversisms.md#supporting-diversity).
 
-If a participant engages in behavior that violates this code of conduct, the [COMMUNITY] organizers may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets.
-
-Thank you for helping make this a welcoming, friendly community for everyone.
+If a participant engages in behavior that violates this code of conduct, the GNOME Code of Conduct committee may take any action they deem appropriate. Examples of consequences are outlined in the [Committee Procedures Guide](FIXME LINK).
 
 ## Scope
 
