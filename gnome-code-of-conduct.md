@@ -2,7 +2,7 @@
 
 # Code of Conduct
 
-[INTENT STATEMENT]
+Thank you for being a part of the GNOME project. We value your participation and want everyone to have an enjoyable and fulfilling experience. Accordingly, all participants are expected to follow this Code of Conduct, and to show respect, understanding, and consideration to one another.
 
 ## Our Standards
 
