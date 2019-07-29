@@ -29,6 +29,10 @@ The committee has one chairperson. The committee chair's duties involve:
 
 The currently acting committee chair is Federico Mena Quintero.
 
+The committee has one director. The director provides a communication link between the GNOME Board of Directors and the GNOME online Code of Conduct committee. The board appoints one committee member to be the committee director.
+
+The currently acting director is Federico Mena Quintero.
+
 The chair may assign a committee member, or a committee member can nominate themselves, to do the following duties:
 
  * Communications lead for a particular reporter, witness, or reported person
