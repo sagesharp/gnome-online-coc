@@ -125,8 +125,9 @@ If there is an online incident that could threaten someone's physical safety or 
 Records must be retained of each reported incident in order to:
 
  * Review incidents before a decision has been made as to what action (if any) is required
- * Identify repeat offenders
- * Create a dataset to base future enforcement actions on
+ * Identify repeated inappropriate behavior
+ * Identify patterns of borderline inappropriate behavior
+ * Determine whether stricter consequences are necessary, based on past records
  * Keep a record of decisions and their grounds for future review
 
 This should include incident reports and meeting minutes. It might also include communications such as copies of electronic correspondence between the committee and reporters, third party witnesses, or reported people.
