@@ -147,7 +147,7 @@ Records must be retained to:
 
 These records might also include communications such as copies of electronic correspondence between the committee and reporters, third party witnesses, or reported people.
 
-Records must be securely kept on GNOME Foundation servers. Only committee members should have access to these records. Information can be shared with the GNOME Foundation Board of Directors on a case by case, need to know basis. (Limiting access in this way is intended to avoid the number of people with access growing excessively, for instance through temporary access by event organizers.) Personal copies of information should not be retained by anyone who has access to them.
+Records must be securely kept on GNOME Foundation servers. Only committee members should have access to these records. Information can be shared with the GNOME Foundation Board of Directors on a case by case, need to know basis. Personal copies of information should not be retained by anyone who has access to them.
 
 If a GNOME online community wishes to abide by the GNOME online Code of Conduct, or a GNOME event wishes to abide by the GNOME events Code of Conduct, the moderators or event planners must notify the GNOME Foundation Board of Directors. Such online communities or events may share information about Code of Conduct reports with the GNOME online Code of Conduct committee. Appropriate safeguards should be in place to ensure that data can be legally transferred between online community moderators/event organizers and the GNOME Foundation.
 
