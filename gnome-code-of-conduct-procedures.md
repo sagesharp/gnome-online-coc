@@ -27,7 +27,7 @@ The committee has one chairperson. The committee chair's duties involve:
  * Contacting committee members for term renewals
  * Tracking the status of active reports
 
-The currently acting committee chair is [PERSON].
+The currently acting committee chair is Federico Mena Quintero.
 
 The chair may assign a committee member, or a committee member can nominate themselves, to do the following duties:
 
