@@ -151,12 +151,14 @@ Records must be securely kept on GNOME Foundation servers. Only committee member
 
 Appropriate safeguards should be in place to ensure that data can be legally transferred between online community moderators/event organizers and the GNOME Foundation.
 
-Records should be retained for no more than six years after collection or the end of any sanction. After this time, they should be put beyond use. This means that they must:
+Records should be retained for no more than six years after collection. After this time, they should be put beyond use. This means that they must:
 
  * Not be used to inform decision making or actions
  * Be stored securely
  * Not be passed to external organisations unless legally required to do so
  * Be deleted once it is reasonably expected that it will not be required to be produced in the future
+
+Records may be retained for longer than six years if a sanction is active or record removal would negatively impact GNOME community safety.
 
 ## Discussing a report
 
