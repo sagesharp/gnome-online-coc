@@ -45,7 +45,7 @@ Should there be two or fewer committee members, additional committee members wil
 
 New committee members will be appointed by the GNOME Board of Directors. The GNOME online Code of Conduct committee may recommend new members to the board. The committee may provide feedback on potential candidates under discussion by the board. The GNOME Board of Directors will vote on all potential candidates.
 
-All committee members will be re-confirmed by the GNOME Board of Directors once per year. The committee liaison to the board will ask all committee members if they wish to continue serving on the committee. The committee liaison will then report back to the board which committee members wish to continue serving. The board will then vote to re-confirm those members.
+All committee members will be re-confirmed by the GNOME Board of Directors once per year. The committee director will ask all committee members if they wish to continue serving on the committee. The committee director will then report back to the board which committee members wish to continue serving. The board will then vote to re-confirm those members.
 
 Confirmed committee members will be given access to the following committee resources:
 
