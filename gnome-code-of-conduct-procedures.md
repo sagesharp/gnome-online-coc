@@ -120,6 +120,28 @@ If there is an online incident that could threaten someone's physical safety or 
 
 [Steps for documenting a report](https://wiki.gnome.org/CodeOfConductCommittee/Private/IncidentResponseGuidelines) are listed on a private wiki page accessible to committee members.
 
+## Data Retention Policy
+
+Records must be retained after each event in order to:
+
+ * Review incidents before a decision has been made as to what action (if any) is required
+ * Identify repeat offenders
+ * Create a dataset to base future enforcement actions on
+ * Keep a record of decisions and their grounds for future review
+
+This should include incident reports and meeting minutes. It might also include communications with event attendees, such as copies of electronic correspondence between the Code of Conduct Team/Committee and affected attendees.
+
+Records must be securely kept on GNOME Foundation servers. Only members of the Code of Conduct Committee should have access to these records. Information can be shared with the GNOME Foundation Board on a case by case, need to know basis. (Limiting access in this way is intended to avoid the number of people with access growing excessively, for instance through temporary access by event organizers.) Personal copies of information should not be retained by anyone who has access to them.
+
+Appropriate safeguards should be in place to ensure that data can be legally transferred between event organizers and the GNOME Foundation.
+
+Records should be retained for no more than six years after collection or the end of any sanction. After this time, they should be put beyond use. This means that they must:
+
+ * Not be used to inform decision making or actions
+ * Be stored securely
+ * Not be passed to external organisations unless legally required to do so
+ * Be deleted once it is reasonably expected that it will not be required to be produced in the future
+
 ## Discussing a report
 
 * **Evaluate conflicts of interest.** Anyone who has a conflict of interest (as defined by the conflict of interest policy) will remove themselves from the discussion. This may mean the discussion needs to happen with a subset of committee members on an email thread, or with a subset of committee members in a private chat room.
