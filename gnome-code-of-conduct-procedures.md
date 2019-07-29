@@ -122,18 +122,18 @@ If there is an online incident that could threaten someone's physical safety or 
 
 ## Data Retention Policy
 
-Records must be retained after each event in order to:
+Records must be retained of each reported incident in order to:
 
  * Review incidents before a decision has been made as to what action (if any) is required
  * Identify repeat offenders
  * Create a dataset to base future enforcement actions on
  * Keep a record of decisions and their grounds for future review
 
-This should include incident reports and meeting minutes. It might also include communications with event attendees, such as copies of electronic correspondence between the Code of Conduct Team/Committee and affected attendees.
+This should include incident reports and meeting minutes. It might also include communications such as copies of electronic correspondence between the committee and reporters, third party witnesses, or reported people.
 
-Records must be securely kept on GNOME Foundation servers. Only members of the Code of Conduct Committee should have access to these records. Information can be shared with the GNOME Foundation Board on a case by case, need to know basis. (Limiting access in this way is intended to avoid the number of people with access growing excessively, for instance through temporary access by event organizers.) Personal copies of information should not be retained by anyone who has access to them.
+Records must be securely kept on GNOME Foundation servers. Only committee members should have access to these records. Information can be shared with the GNOME Foundation Board of Directors on a case by case, need to know basis. (Limiting access in this way is intended to avoid the number of people with access growing excessively, for instance through temporary access by event organizers.) Personal copies of information should not be retained by anyone who has access to them.
 
-Appropriate safeguards should be in place to ensure that data can be legally transferred between event organizers and the GNOME Foundation.
+Appropriate safeguards should be in place to ensure that data can be legally transferred between online community moderators/event organizers and the GNOME Foundation.
 
 Records should be retained for no more than six years after collection or the end of any sanction. After this time, they should be put beyond use. This means that they must:
 
