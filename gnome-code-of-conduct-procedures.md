@@ -122,15 +122,30 @@ If there is an online incident that could threaten someone's physical safety or 
 
 ## Data Retention Policy
 
-Records must be retained of each reported incident in order to:
+Each reported incident will be documented in order to retain records of:
 
- * Review incidents before a decision has been made as to what action (if any) is required
+ * Contact information for the reporter, third-party witnesses, and reported person
+ * Incident description, including discussions with reporters or third-party witnesses
+ * Details of the inappropriate behavior
+ * Committee meeting minutes
+ * Committee decisions regarding report jurisdiction and impact/risk assessment
+ * Committee decisions about behavioral modification plans and consequences
+ * Discussions with the reported person, including whether they have agreed to a behavioral modification plan and/or consequences
+ * Follow-up actions to make the community more safe or inclusive
+
+Records must be retained to:
+
+ * Review incident documentation during committee discussion of the incident
  * Identify repeated inappropriate behavior
  * Identify patterns of borderline inappropriate behavior
  * Determine whether stricter consequences are necessary, based on past records
- * Keep a record of decisions and their grounds for future review
+ * Contact a reporter or third-party witnesses with the resolution to their report
+ * Contact a reported person to deliver a behavioral modification plan and/or consequences
+ * Contact a reported person to lift a temporary ban or remove a sanction
+ * Review documentation during a decision appeal
+ * Contact a reporter or third-party witnesses with an updated resolution to their report
 
-This should include incident reports and meeting minutes. It might also include communications such as copies of electronic correspondence between the committee and reporters, third party witnesses, or reported people.
+These records might also include communications such as copies of electronic correspondence between the committee and reporters, third party witnesses, or reported people.
 
 Records must be securely kept on GNOME Foundation servers. Only committee members should have access to these records. Information can be shared with the GNOME Foundation Board of Directors on a case by case, need to know basis. (Limiting access in this way is intended to avoid the number of people with access growing excessively, for instance through temporary access by event organizers.) Personal copies of information should not be retained by anyone who has access to them.
 
