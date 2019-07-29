@@ -60,7 +60,14 @@ We want all participants in the GNOME community have the best possible experienc
  * **Influencing or encouraging inappropriate behavior.** If you influence or encourage another person to violate the Code of Conduct, you may face the same consequences as if you had violated the Code of Conduct.
  * **Possession of an offensive weapon at a GNOME event.** This includes anything deemed to be a weapon by the event organizers.
 
-[REVERSISMS]
+The GNOME community prioritizes marginalized people's safety over privileged people's comfort. The committee will not act on complaints regarding:
+
+ * "Reverse"-isms, including "reverse racism," "reverse sexism," and "cisphobia"
+ * Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."
+ * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+ * Communicating boundaries or criticizing oppressive behavior in a "tone" you don't find congenial
+
+The examples listed above are not against the Code of Conduct. If you have questions about the above statements, please [read this document](https://github.com/sagesharp/code-of-conduct-template/blob/master/code-of-conduct/example-reversisms.md#supporting-diversity).
 
 If a participant engages in behavior that violates this code of conduct, the [COMMUNITY] organizers may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets.
 
@@ -103,7 +110,7 @@ Additional language was incorporated and modified from the following Codes of Co
  * [Fedora Code of Conduct](http://fedoraproject.org/code-of-conduct)
  * [Geek Feminism Anti-harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/)
  * [GNOME Foundation Code of Conduct](https://wiki.gnome.org/action/recall/Foundation/CodeOfConduct?action=recall&rev=48)
- * [LGBTQ in Technology Slack Code of Conduct](https://lgbtq.technology/coc.html) licensed [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) - abbreviated LG in list
+ * [LGBTQ in Technology Slack Code of Conduct](https://lgbtq.technology/coc.html) licensed [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/)
  * [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) is licensed [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
  * [Python Mentors Code of Conduct](http://pythonmentors.com/)
  * [Speak Up! Community Code of Conduct](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html), licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
