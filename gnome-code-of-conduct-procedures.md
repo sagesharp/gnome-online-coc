@@ -29,7 +29,7 @@ The committee has one chairperson. The committee chair's duties involve:
 
 The currently acting committee chair is Federico Mena Quintero.
 
-The committee has one director. The director provides a communication link between the GNOME Board of Directors and the GNOME online Code of Conduct committee. The board appoints one committee member to be the committee director.
+The committee has one director. The director provides a communication link between the GNOME Foundation Board of Directors and the GNOME online Code of Conduct committee. The board appoints one committee member to be the committee director.
 
 The currently acting director is Federico Mena Quintero.
 
@@ -43,9 +43,9 @@ The chair may assign a committee member, or a committee member can nominate them
 
 Should there be two or fewer committee members, additional committee members will be added.
 
-New committee members will be appointed by the GNOME Board of Directors. The GNOME online Code of Conduct committee may recommend new members to the board. The committee may provide feedback on potential candidates under discussion by the board. The GNOME Board of Directors will vote on all potential candidates.
+New committee members will be appointed by the GNOME Foundation Board of Directors. The GNOME online Code of Conduct committee may recommend new members to the board. The committee may provide feedback on potential candidates under discussion by the board. The GNOME Foundation Board of Directors will vote on all potential candidates.
 
-All committee members will be re-confirmed by the GNOME Board of Directors once per year. The committee director will ask all committee members if they wish to continue serving on the committee. The committee director will then report back to the board which committee members wish to continue serving. The board will then vote to re-confirm those members.
+All committee members will be re-confirmed by the GNOME Foundation Board of Directors once per year. The committee director will ask all committee members if they wish to continue serving on the committee. The committee director will then report back to the board which committee members wish to continue serving. The board will then vote to re-confirm those members.
 
 Confirmed committee members will be given access to the following committee resources:
 
@@ -65,7 +65,7 @@ When a new committee member is on-boarded, they will be asked whether they have 
 
 Committee members shall serve for a term of one year. After one year, the committee chair will check in with the committee member. If the member confirms they wish to continue serving, the committee liaison to the board will report this to the board. If the member fails to respond to the chair request communications, they will be removed from the committee and off-boarded.
 
-If a committee member displays behavior that makes them unfit to continue serving on the Code of Conduct committee, the committee should discuss their removal. One person should email all committee members privately to discuss the person's conduct. If necessary, committee members will privately email the GNOME Board of Directors to recommend the member be removed. The board will then vote to remove the member, and notify the subset of the committee with the results of the vote.
+If a committee member displays behavior that makes them unfit to continue serving on the Code of Conduct committee, the committee should discuss their removal. One person should email all committee members privately to discuss the person's conduct. If necessary, committee members will privately email the GNOME Foundation Board of Directors to recommend the member be removed. The board will then vote to remove the member, and notify the subset of the committee with the results of the vote.
 
 If the board vote passes, the committee chair will email the person to let them know they have been removed from the committee. Their access to committee resources should be revoked before the email is sent.
 
