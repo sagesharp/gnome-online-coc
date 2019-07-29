@@ -52,6 +52,8 @@ If a committee member has a conflict of interest for a report, they will recuse 
 
 Should two or fewer committee members remain to evaluate the report, [person] ([title]) will step in as an additional decision maker on the incident.
 
+Please note that GNOME sysadmins have administrative access to some private committee resources. If a report is received that involves a GNOME sysadmin, all committee report discussion and documentation will occur off GNOME servers. GNOME sysadmins making a report and people reporting GNOME sysadmins are encouraged to contact committee members individually via private email.
+
 ## Following Up With Reporters
 
 Within one week of an incident report, the committee will follow up with the person who made the report and provided their contact information. The follow up may include:
