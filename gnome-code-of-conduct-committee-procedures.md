@@ -49,15 +49,12 @@ All committee members will be re-confirmed by the GNOME Foundation Board of Dire
 
 Confirmed committee members will be given access to the following committee resources:
 
- * Committee private mailing list
- * Committee private wiki pages
- * Committee private GitLab
- * [FIXME the following is an example list. Do not link to the location of the resources, but list their general nature.]
- * Private forums/chat servers, or private slack/Zulip channels for the committee members
- * All shared documents (such as Google Docs or private wiki pages) for reports
- * The shared spreadsheet for report statuses
- * Event registration data
- * Admin/moderator rights on community chat/forums
+ * Committee private mailing list for code-of-conduct-committee@gnome.org
+ * Committee [private wiki pages](https://wiki.gnome.org/CodeOfConductCommittee/Private)
+ * Committee [private GitLab](https://gitlab.gnome.org/Teams/coc)
+ * Committee private Google docs for meeting minutes and incident reports
+ * Committee private Telegram group
+ * Committee meetings hosted through Uberconference
 
 When a new committee member is on-boarded, they will be asked whether they have a conflict of interest with any open or closed reports. Go through the list of reported people verbally and see whether they have a conflict of interest. If not, grant them access to that report's documentation.
 
