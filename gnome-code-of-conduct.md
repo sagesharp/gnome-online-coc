@@ -92,6 +92,8 @@ If you believe that someone is violating the Code of Conduct, or have any other 
 
 [REPORTER PROCEDURES]
 
+[MODERATOR PROCEDURES]
+
 [ENFORCEMENT PROCEDURES] 
 
 ## License
