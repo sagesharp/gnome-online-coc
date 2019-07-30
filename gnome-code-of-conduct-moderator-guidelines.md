@@ -88,7 +88,7 @@ Once you've had a discussion with the person privately, send a public note to th
 
  * Announce that is a message from the moderator team. "Folks, as a reminder from the moderation team..."
  * Point out the inappropriate behavior. "...please avoid using the term 'guys' to refer to the whole community."
- * Explain how that behavior impacts others. "The word 'guys' makes women and non-binary community members feel excluded."
+ * Explain how that behavior impacts others. "The word 'guys' may make women and non-binary community members feel excluded."
  * Call them in. "We need everyone's help to change our language and make our community more inclusive."
 
 Send an email to the GNOME online Code of Conduct committee, using the [Reporter Guidelines](LINK). It's important for the committee to keep track of incidents, even if they have been resolved. This helps the committee identify patterns of borderline inappropriate behavior, or repeated inappropriate behavior in different GNOME community spaces.
