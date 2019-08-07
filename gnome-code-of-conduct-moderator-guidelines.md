@@ -72,16 +72,19 @@ Instead, speak about how the behavior may negatively impact the whole community,
 
 A community member who is the target of harassment or discrimination may want to file a report to the GNOME online Code of Conduct committee. Please tell them they are welcome to do so, and point them to the [Reporter Guidelines](LINK). Submit your own report as soon as you can.
 
-### Safe and simple incidents
+### Safe and minor incidents
 
-If you observe an ongoing incident and it is safe and simple to intervene, privately contact the reported person:
+You may observe or receive a report of a minor incident. If it is safe to intervene, you may issue a private warning. Warnings should only be issued for minor violations of the Code of Conduct.
+
+Privately contact the reported person:
 
  * Point out the inappropriate behavior. "Please don't say 'hey guys' to address the community."
- * Explain how their behavior impacts others. "The word 'guys' makes women and non-binary community members feel excluded."
- * Allow them some time to react.
+ * Explain how their behavior impacts others. "The word 'guys' makes some women and non-binary community members feel excluded."
+ * Allow them some time to react. Common emotions you might see are defensiveness, denial, blame shifting, seeking reassurance, blaming themselves, or manipulation.
  * Don't reassure them, but instead focus on getting them to agree to change their behavior.
  * Call them in. "I need your help making our community welcoming to everyone."
  * Ask them to agree to a behavioral modification plan. "Can you agree not to use the phase 'hey guys' in the community chat?"
+ * If they cannot agree to the behavioral modification plan or they wish to contest the report, tell them to [contact](LINK to reporter guidelines) the GNOME online Code of Conduct committee
  * Tell them not to contact the impacted person. If they want to apologize, accept the apology on behalf of the impacted person.
 
 Once you've had a discussion with the person privately, send a public note to the community:
