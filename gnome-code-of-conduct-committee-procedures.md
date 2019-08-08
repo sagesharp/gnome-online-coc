@@ -265,6 +265,20 @@ If the reported person wants to apologize, tell them that you will relay their a
 
 Sometimes a reported person does not understand why their behavior was inappropriate, or they will not agree to the behavioral modification plan. If this happens, there may be a risk of the inappropriate behavior repeating. You may need to respond with a more severe consequence than a warning, such as removal from an event or a temporary ban from an online community. Talk with your Code of Conduct committee before hand to determine what response to take if the person does not agree to the behavioral modification plan.
 
+### No Forced Apologies
+
+Do not ask for the reported person to make an apology to the reporter, third party witnesses, or other people who were impacted by their behavior. Committee members have no responsibility to enforce friendship or reconciliation. The committee's goal is to stop the inappropriate behavior.
+
+Forcing an apology can cause the impacted person additional distress or trauma. It forces further contact with the reported person, which can cause the impacted person to feel unsafe or impact their mental health. It also creates a social expectation that the impacted person will accept the apology, forgive the reported person, and return their social connection to its previous status.
+
+If the reported person offers to apologize to the impacted people (especially in person), discourage it. Say, "I accept your apology on behalf of (the impacted people)."
+
+If a committee member relays an apology to the impacted people, it should be brief and not require a response. "(The reported person) apologizes and agrees to have no further contact with you" is brief. "(The reported person) is very sorry that their attempts to woo you were not received in the manner that was intended and will try to do better next time, they're really really sorry and hope that you can find it in your heart to forgive them" is emphatically not.
+
+If the reported person recognizes that their behavior was inappropriate, note that in the relayed apology. If the reported person does not recognize their behavior was inappropriate, do not relay the apology, as it is not genuine.
+
+Tell the reported person they are not to further discuss the incident with the impacted people. If the reported person attempts to press an apology on someone who would clearly prefer to avoid them, or attempts to recruit others to relay messages on their behalf, this may constitute continued violation of the Code of Conduct.
+
 ## Following up with reporters
 
 Reporters should receive an acknowledgment of their report within 24 hours. Follow up on a report should be completed within 1 week.
