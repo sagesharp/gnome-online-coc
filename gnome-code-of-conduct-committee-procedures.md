@@ -99,6 +99,26 @@ Committee members do not need to state why they have a conflict of interest, onl
 
 ## Talking to reporters
 
+When taking a report:
+
+ * Engage the person in a private space
+ * Listen and summarize. Make sure the person feels heard, rather than immediately jumping into problem solving. Make sure you record the important details.
+ * Acknowledge emotions with "You" statements. Use the phase "I'm hearing you felt (emotion) when (that happened)."
+ * Seek assistance or resources as needed. You may need to pull in a second committee member or a moderator if there is a situation that needs an immediate response.
+ * Ensure everyone is safe. If a situation involves threats of violence or publishing personal information (doxxing), it should be dealt with immediately.
+ * (Optional) If the reported person might know who the reporter is, tell the reporter that might be possibility and ask if they have any concerns.
+ * Get the reporter's contact information
+ * Outline the next steps: the report will be evaluated by the committee, a committee member will talk with the person reported, and then the committee will email the reporter
+ * Thank the reporter for making a report
+
+Things to avoid when taking a report:
+
+ * Do not pressure people into giving reports if they don't want to
+ * Do not ask whether the reporter wants to withdraw their report
+ * Do not share the identity of the reporter outside of the committee
+ * Do not ask for a reporter's advice on how to deal with the complaint. This is the committee's responsibility.
+ * Do not say what consequences or behavioral modification plan may be given to the reported person. This is decided by the committee after discussion.
+
 ### Talking to hesitant reporters
 
 Sometimes a reporter may seem hesitant to meet with you or reluctant to provide details in a report. They may fear retribution. They may be worried you won’t act on the report. They may be worried that you won’t believe them. There are several different things you can do. Try them in order:
