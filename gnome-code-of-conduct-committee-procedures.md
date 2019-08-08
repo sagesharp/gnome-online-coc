@@ -134,6 +134,12 @@ If there is immediate danger at an event (e.g. occurrence or threat of physical 
 
 If there is an online incident that could threaten someone's physical safety or mental health, only involve law enforcement if the person at risk asks you to. This includes situations such as stalking or sharing personal information publicly in order to encourage harassment (doxxing).
 
+Filing a report with law enforcement without the impacted person's consent may cause unnecessary distress. Filing a police report means the person will have to recount the events, which may further re-traumatize them. Law enforcement may not believe reports of sexual harassment or hate crimes. Police officers may harass the reporter. Police officers often are not trained to handle people who are experiencing mental health issues. Law enforcement often shows bias against people of color. Law enforcement may use the report as an excuse to deport immigrants or children of immigrants, whether that is the reporter or the reported person. In summary, involving law enforcement may put people in further danger.
+
+If a reporter wishes to seek additional help, point them to crisis and non-emergency resources first. Then provide contact information for law enforcement, and say, "if you want any help reporting this incident, please let us know."
+
+Note that there may be cases where the GNOME Foundation is legally obliged to contact law enforcement, even if the reporter did not request it.
+
 ## Documenting a report
 
 [Steps for documenting a report](https://wiki.gnome.org/CodeOfConductCommittee/Private/IncidentResponseGuidelines) are listed on a private wiki page accessible to committee members.
