@@ -74,7 +74,9 @@ A community member who is the target of harassment or discrimination may want to
 
 ### Safe and minor incidents
 
-You may observe or receive a report of a minor incident. If it is safe to intervene, you may issue a private warning. Warnings should only be issued for minor violations of the Code of Conduct.
+You may observe or receive a report of a minor incident. A minor incident is one that is defined as being low impact and low risk. See the [report evaluation section](LINK#Evaluating a report) of the GNOME online Code of Conduct committee processes for a definition of impact and risk.
+
+If a minor incident is reported or observed and it is safe to intervene, you may issue a private warning. Warnings should only be issued for minor incidents. Report all other incidents to the committee, using the [Reporter Guidelines](LINK).
 
 Privately contact the reported person:
 
