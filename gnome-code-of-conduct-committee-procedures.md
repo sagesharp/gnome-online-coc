@@ -310,9 +310,21 @@ If handling the report takes longer than 1 week, then the committee will need to
 
 The committee should send an email acknowledging emailed reports or reports via web form within 24 hours. Reporters should receive an email back with the committee’s decisions and actions taken within 1 week. If deliberations are taking longer than a week, you should email the reporter letting them know that the report will take more time to handle.
 
-## Additional Procedures
+## Public Responses
 
-The committee's [private procedures page](https://wiki.gnome.org/CodeOfConductCommittee/Private/IncidentResponseGuidelines) lists more committee procedures.
+Some incidents require a public response after the incident in order to protect the GNOME community. Reasons that you might decide to communicate an incident or enforcement decision with the community include:
+
+ * To be transparent with the community
+ * To ensure that people correctly understand the Code of Conduct
+ * To reassure people that you are serious about enforcing a Code of Conduct
+
+Be prepared and willing to distance your community from actions of participants that reflect badly on the GNOME community, and to defend your action or inaction in response.
+
+Try to respond quickly to incidents. A late response looks a lot like no response at all and can harm the GNOME community's reputation. Use a simple general statement about the kind of behavior involved.
+
+For example: "$COMMUNITY does not condone $BEHAVIOR. $BEHAVIOR violates the GNOME online Code of Conduct. We take harassment seriously and respond to reports of it quickly and firmly."
+
+If the incident has been dealt with at the event, it may be appropriate to make a short announcement at the next plenary, something like: "<thing> happened. This was a violation of our policy. We apologize for this. We have taken <action>. This is a good time for all attendees to review our policy at <location>. If anyone would like to discuss this further they can <contact us somehow>."
 
 ## Transparency reports
 
@@ -336,6 +348,19 @@ Examples of transparency reports include:
  * [Write the Docs Europe conference 2016](https://www.writethedocs.org/conf/eu/2016/news/code-of-conduct-report/)
  * [Linux Conf Australia 2019](https://linux.conf.au/static/build/downloads/lca2019_coc_transparency_report.pdf)
  * [Symfony online community report for 2018](https://symfony.com/blog/symfony-code-of-conduct-transparency-report-2018)
+
+## Employer Reports
+
+Please consult with the GNOME Foundation board and/or GNOME lawyers before making a report to someone's employer. If approved, it may be appropriate to provide a short report of someone's conduct to their employer. This may be appropriate if someone is working in an official employee capacity.
+
+An incident may be reported to an employer if the incident occurred while the reported person was:
+
+ * Talking about their employer's product
+ * Staffing a sponsor booth at a GNOME event
+ * Answering questions about their employer in the GNOME online community
+ * Attempting to recruit someone to work for the employer
+ * Claiming to represent their employer's views
+ * Working as paid staff for the GNOME Foundation, whether as event staff, online moderators, or contributors
 
 ## Attribution
 
