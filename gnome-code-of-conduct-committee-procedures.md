@@ -186,12 +186,21 @@ Records may be retained for longer than six years if a sanction is active or rec
 
 ## Discussing a report
 
+Meetings to discuss reports should be held as soon as possible. If the incident requires an immediate response, the meeting should be held within 24 hours of receiving the report. If the incident is not urgent, the meeting should be scheduled within one week of receiving the report.
+
+Only members of the committee should be present at the meeting. At least half of the committee must be in attendance in order to determine consequences and a behavioral modification plan.
+
 * **Evaluate conflicts of interest.** Anyone who has a conflict of interest (as defined by the conflict of interest policy) will remove themselves from the discussion. This may mean the discussion needs to happen with a subset of committee members on an email thread, or with a subset of committee members in a private chat room.
 * **Call a meeting of committee members.** Not all committee members may be able to attend the meeting, either because of a conflict of interest, or because of personal reasons. There must be at least half of the committee members who do not have a conflict of interest present in the meeting to make a decision.
+* **Check for missing information.**  Flag any significant omission or questions. Decide which committee member will follow up with witnesses or the reporter.
 * **During the meeting, discuss the reported incident** Use the evaluation techniques described below.
 * **Propose behavioral modification plan.** What behavioral modification plan (if any) should be given to the reported person?
 * **Propose consequences for reported person.** What (if any) actions will the committee need to take in order to ensure the behavior does not happen again? What actions will need to be taken if the reported person does not agree to the behavioral modification plan?
 * **Vote on behavioral modification plan and consequences for the reported person.** Decisions will be made by a simple majority of the committee members in the meeting.
+
+The current status of all reports should be documented. This includes documenting email and verbal conversations as they occur. A designated committee member will document committee meeting notes, the committee's report evaluation, and what behavioral modification plan and consequences are decided on. The committee member who follows up with the reported person will document their response.
+
+Follow up meetings may need to be scheduled to review additional information, decide additional consequences based on the reported person's response, or to review an appeal.
 
 ### Evaluating a report
 
