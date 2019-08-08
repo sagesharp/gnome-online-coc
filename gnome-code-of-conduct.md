@@ -4,6 +4,23 @@
 
 Thank you for being a part of the GNOME project. We value your participation and want everyone to have an enjoyable and fulfilling experience. Accordingly, all participants are expected to follow this Code of Conduct, and to show respect, understanding, and consideration to one another. Thank you for helping make this a welcoming, friendly community for everyone.
 
+## Scope
+
+This Code of Conduct applies to all online GNOME community spaces:
+
+ * Issue tracking systems - bugzilla.gnome.org
+ * Documentation and tutorials - developer.gnome.org
+ * Code repositories - git.gnome.org and gitlab.gnome.org
+ * Mailing lists - mail.gnome.org
+ * Wikis - wiki.gnome.org
+ * Chat and forums - irc.gnome.org, discourse.gnome.org, GNOME Telegram channels, and GNOME groups and channels on Matrix.org (including bridges to GNOME IRC channels)
+
+All participants in GNOME online community spaces are subject to the Code of Conduct. This includes GNOME Foundation board members, corporate sponsors, and paid employees. This also includes volunteers, maintainers, leaders, contributors, contribution reviewers, issue reporters, and anyone participating in discussion in GNOME online spaces.
+
+## Reporting an Incident
+
+If you believe that someone is violating the Code of Conduct, or have any other concerns, please [contact the Code of Conduct committee](LINK to reporter's guide).
+
 ## Our Standards
 
 The GNOME online community is dedicated to providing a positive experience for everyone, regardless of:
@@ -71,30 +88,13 @@ The examples listed above are not against the Code of Conduct. If you have quest
 
 If a participant engages in behavior that violates this code of conduct, the GNOME Code of Conduct committee may take any action they deem appropriate. Examples of consequences are outlined in the [Committee Procedures Guide](FIXME LINK).
 
-## Scope
-
-This Code of Conduct applies to all online GNOME community spaces:
-
- * Issue tracking systems - bugzilla.gnome.org
- * Documentation and tutorials - developer.gnome.org
- * Code repositories - git.gnome.org and gitlab.gnome.org
- * Mailing lists - mail.gnome.org
- * Wikis - wiki.gnome.org
- * Chat and forums - irc.gnome.org, discourse.gnome.org, GNOME Telegram channels, and GNOME groups and channels on Matrix.org (including bridges to GNOME IRC channels)
-
-All participants in GNOME online community spaces are subject to the Code of Conduct. This includes GNOME Foundation board members, corporate sponsors, and paid employees. This also includes volunteers, maintainers, leaders, contributors, contribution reviewers, issue reporters, and anyone participating in discussion in GNOME online spaces.
-
-## Contact Information
-
-If you believe that someone is violating the Code of Conduct, or have any other concerns, please [contact the Code of Conduct committee](LINK to procedures guide) immediately.
-
 ## Procedure for Handling Incidents
 
-[REPORTER PROCEDURES]
+[Reporter Guide](LINK TO REPORTER PROCEDURES)
 
-[MODERATOR PROCEDURES]
+[Moderator Procedures](LINK TO MODERATOR PROCEDURES)
 
-[ENFORCEMENT PROCEDURES] 
+[Committee Procedures Guide](LINK TO ENFORCEMENT PROCEDURES)
 
 ## License
 
