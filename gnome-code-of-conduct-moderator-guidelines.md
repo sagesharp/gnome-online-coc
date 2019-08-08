@@ -112,6 +112,8 @@ Sometimes the GNOME online Code of Conduct committee may decide a permanent or t
 
 The GNOME Online Code of Conduct moderator guidelines is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
 
+[![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
+
 ## Attribution
 
 The [original text](https://wiki.gnome.org/CodeOfConductCommittee/Private/IncidentResponseGuidelines) was developed for GNOME event organizers to communicate with the GNOME Foundation about Code of Conduct issues. It was developed by Allan Day, Benjamin Berg, Neil McGovern, Federico Mena Quintero, and Rosanna Yuen. The structure of that text was then adapted for GNOME online moderator teams and expanded by Sage Sharp of [Otter Tech](https://otter.technology/code-of-conduct-training).

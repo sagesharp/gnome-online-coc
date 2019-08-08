@@ -64,6 +64,12 @@ Within one week of an incident report, the committee will follow up with the per
 
 Sometimes reports take more time to discuss or follow up on. After one week of a report being open, the person who made the report will be provided with a status update. The status update will include a time frame for when the next update will be sent or the time frame in which the report is expected to be resolved.
 
+# License
+
+The GNOME Online Code of Conduct Reporter Guide is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)
+
+[![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
+
 # Attribution
 
 The GNOME Online Code of Conduct reporter's guide has been adapted from the Ada Initiative’s guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)", which is licensed [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/). It has been modified by [Otter Tech](https://otter.technology/code-of-conduct-training).

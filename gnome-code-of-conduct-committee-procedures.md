@@ -397,6 +397,12 @@ An incident may be reported to an employer if the incident occurred while the re
  * Claiming to represent their employer's views
  * Working as paid staff for the GNOME Foundation, whether as event staff, online moderators, or contributors
 
+## License
+
+The GNOME Online Code of Conduct committee procedures guide is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)
+
+[![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
+
 ## Attribution
 
 The GNOME Online Code of Conduct committee procedures was forked from the Code of Conduct template, which was created by [Otter Tech](https://otter.technology/code-of-conduct-training) and is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
