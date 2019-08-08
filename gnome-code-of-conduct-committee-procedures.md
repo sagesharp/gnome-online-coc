@@ -110,6 +110,7 @@ When taking a report:
  * Get the reporter's contact information
  * Outline the next steps: the report will be evaluated by the committee, a committee member will talk with the person reported, and then the committee will email the reporter
  * Thank the reporter for making a report
+ * Offer them support (see the "Support for Reporters" section below)
 
 Things to avoid when taking a report:
 
@@ -139,6 +140,40 @@ Filing a report with law enforcement without the impacted person's consent may c
 If a reporter wishes to seek additional help, point them to crisis and non-emergency resources first. Then provide contact information for law enforcement, and say, "if you want any help reporting this incident, please let us know."
 
 Note that there may be cases where the GNOME Foundation is legally obliged to contact law enforcement, even if the reporter did not request it.
+
+### Support for Reporters
+
+If someone has been impacted by a Code of Conduct incident, it is important to ensure that they receive appropriate support. This is important not only to ensure their well being, but also to show that the project takes their welfare seriously. Even if an offer of support is not accepted, it still sends a powerful message.
+
+Judging when to offer support and who requires it can be difficult. Remember that it isn't always obvious who might be experiencing distress or hurt. Therefore, as a rule, it is better to offer support than not.
+
+Ways you may be able to offer support to people who have been impacted by an incident at an event:
+
+ * Ask: "How can I help?" or "Is there anything else I can do to support you?"
+ * Offer the person a private place to sit
+ * Offer them access to your event's quiet room
+ * Ask: "Is there a friend or trusted person who you would like to be with you?" (if so, arrange for someone to fetch this person)
+ * If they are feeling isolated/alone: offer to introduce them to other event organizers or attendees who are friendly
+ * If someone feels that their safety might be at risk, you might want to consider:
+   * Helping them to find alternative accommodation
+   * Organizing an escort
+   * Provide emergency contact information in case they need help later
+   * If they want to make a report to law enforcement, provide as much assistance as possible
+
+Ways you may be able to offer support to people who have been impacted by an incident in an online space:
+
+ * Ask: "How can I help?" or "Is there anything else I can do to support you?"
+ * Ask: "Is there a friend or trusted person in the community who you would like to talk to?" (if so, send this person a private message)
+ * Offer to have another person cover their online community duties so they can take a break offline
+ * If the incidents is on-going or may spread to other online communities:
+   * Give them the moderator contracts and shift schedule so they know who to contact when further incidents occur
+   * Notify moderation teams in other communities
+   * Offer to have moderators watch channels or forums they use more closely
+   * Offer to lock comments on an issue or bug report
+   * Offer to set a mailing list to have all email moderated
+   * Offer to moderate specific people on a mailing list
+   * Offer to set up moderation for their blog comments
+ * If they want to make a report to law enforcement, provide as much assistance as possible
 
 ## Documenting a report
 
