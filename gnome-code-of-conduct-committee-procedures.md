@@ -86,6 +86,7 @@ When a new incident report is received, it's important to only involve the Code 
 
 Examples of conflicts of interest include:
 
+ * You were directly impacted by the incident and reported it to the committee
  * The reporter or reported person is your manager
  * You have a romantic or platonic relationship with either the reporter or the reported person. It’s fine to participate if they are an acquaintance.
  * The reporter or reported person is your metamour. (This is a term used in the poly community; the short definition is [here](https://www.urbandictionary.com/define.php?term=Metamour), and a longer description is [here](https://solopoly.net/2012/09/29/whats-a-metamour-on-my-terms/)).
