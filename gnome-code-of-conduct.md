@@ -15,6 +15,8 @@ This Code of Conduct applies to all online GNOME community spaces:
  * Wikis - wiki.gnome.org
  * Chat and forums - irc.gnome.org, discourse.gnome.org, GNOME Telegram channels, and GNOME groups and channels on Matrix.org (including bridges to GNOME IRC channels)
 
+Communication channels and private conversations that are normally out of scope may be considered in scope if a GNOME participant is being stalked or harassed.
+
 All participants in GNOME online community spaces are subject to the Code of Conduct. This includes GNOME Foundation board members, corporate sponsors, and paid employees. This also includes volunteers, maintainers, leaders, contributors, contribution reviewers, issue reporters, and anyone participating in discussion in GNOME online spaces.
 
 ## Reporting an Incident
