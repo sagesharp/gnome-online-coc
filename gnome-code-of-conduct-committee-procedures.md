@@ -17,7 +17,7 @@ The GNOME online Code of Conduct committee has the following members:
 
 Please note that GNOME sysadmins have administrative access to some private committee resources. If a report is received that involves a GNOME sysadmin, all committee report discussion and documentation should occur off GNOME servers. GNOME sysadmins making a report and people reporting GNOME sysadmins are encouraged to contact committee members individually via private email. If a GNOME sysadmin accesses private committee resources, the committee will contact the GNOME Foundation board.
 
-[CONFLICT PROCEDURES - Names of any additional people who may be pulled in if too many committee members have a conflict of interest.]
+The GNOME Foundation executive director, president of the board, vice president, and other GNOME Foundation executives may serve as temporary Code of Conduct committee members. They will only serve as temporary members when less than three committee members do not have a conflict of interest for a report. The executive with the most authority without a conflict of interest will be invited to become a temporary Code of Conduct committee member for this report. GNOME Foundation executives will be added as temporary committee members until there are at least three committee members to evaluate a report.
 
 ### Committee roles
 
