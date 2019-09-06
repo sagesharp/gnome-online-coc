@@ -6,7 +6,7 @@ Thank you for being a part of the GNOME project. We value your participation and
 
 ## Scope
 
-This Code of Conduct applies to all online GNOME community spaces:
+This Code of Conduct applies to all online GNOME community spaces, including:
 
  * Issue tracking systems - bugzilla.gnome.org
  * Documentation and tutorials - developer.gnome.org
@@ -14,6 +14,8 @@ This Code of Conduct applies to all online GNOME community spaces:
  * Mailing lists - mail.gnome.org
  * Wikis - wiki.gnome.org
  * Chat and forums - irc.gnome.org, discourse.gnome.org, GNOME Telegram channels, and GNOME groups and channels on Matrix.org (including bridges to GNOME IRC channels)
+ * Community spaces hosted on gnome.org infrastructure
+ * Any other channels or groups which exist in order to discuss GNOME project activities
 
 Communication channels and private conversations that are normally out of scope may be considered in scope if a GNOME participant is being stalked or harassed.
 
