@@ -17,7 +17,7 @@ This Code of Conduct applies to all online GNOME community spaces, including:
  * Community spaces hosted on gnome.org infrastructure
  * Any other channels or groups which exist in order to discuss GNOME project activities
 
-Communication channels and private conversations that are normally out of scope may be considered in scope if a GNOME participant is being stalked or harassed. Social media conversations may be considered in-scope if the incident occurred under a GNOME event hashtag, when an official GNOME Twitter account is tagged, or any other discussions about GNOME. The GNOME Foundation reserves the right to take actions against behaviors that happen in any context, if they are deemed to be relevant to the GNOME project and its participants.
+Communication channels and private conversations that are normally out of scope may be considered in scope if a GNOME participant is being stalked or harassed. Social media conversations may be considered in-scope if the incident occurred under a GNOME event hashtag, or when an official GNOME account on social media is tagged, or within any other discussion about GNOME. The GNOME Foundation reserves the right to take actions against behaviors that happen in any context, if they are deemed to be relevant to the GNOME project and its participants.
 
 All participants in GNOME online community spaces are subject to the Code of Conduct. This includes GNOME Foundation board members, corporate sponsors, and paid employees. This also includes volunteers, maintainers, leaders, contributors, contribution reviewers, issue reporters, GNOME users, and anyone participating in discussion in GNOME online spaces.
 
