@@ -147,7 +147,7 @@ Filing a report with law enforcement without the impacted person's consent may c
 
 If a reporter wishes to seek additional help, point them to crisis and non-emergency resources first. Then provide contact information for law enforcement, and say, "if you want any help reporting this incident, please let us know."
 
-Note that there may be cases where the GNOME Foundation is legally obliged to contact law enforcement, even if the reporter did not request it.
+Note that there may be cases where the GNOME Foundation is legally obligated to contact law enforcement, even if the reporter did not request it.
 
 ### Support for Reporters
 
