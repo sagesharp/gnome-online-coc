@@ -174,7 +174,7 @@ Ways you may be able to offer support to people who have been impacted by an inc
  * Ask: "Is there a friend or trusted person in the community who you would like to talk to?" (if so, send this person a private message)
  * Offer to have another person cover their online community duties so they can take a break offline
  * If the incidents is on-going or may spread to other online communities:
-   * Give them the moderator contracts and shift schedule so they know who to contact when further incidents occur
+   * Give them the moderator contacts and shift schedule so they know who to contact when further incidents occur
    * Notify moderation teams in other communities
    * Offer to have moderators watch channels or forums they use more closely
    * Offer to lock comments on an issue or bug report
